@@ -1,0 +1,27 @@
+
+.mainBackground{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.topHeading{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.mainHeading{
+    font-style: italic;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+}
+
+.unorderedList{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    list-style-type: none;
+}

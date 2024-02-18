@@ -1,0 +1,38 @@
+
+.eachContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f8f8ff;
+    padding: 20px;
+    border: 0px;
+    border-radius: 10px;
+    width: 180px;
+}
+
+.eachImg{
+    height: 100px;
+}
+
+.eachHeading{
+    font-size: 18px;
+    color: #e73959;
+    margin-bottom: 0px;
+}
+
+.eachDataContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}
+
+.eachIcons{
+    height: 15px;
+    margin-bottom: 0px;
+}
+
+.eachPara{
+    margin-bottom: 0px;
+}
